@@ -1,0 +1,62 @@
+﻿body {
+    background-color: lightgray;
+}
+
+.jumbotron{
+    margin-top: -30px;
+    background-color: lightgray;
+    color:lightcoral;
+    font-size:80px;
+    text-align:center;
+}
+.des2 {
+    font-size: 35px;
+    text-align: center;
+}
+#music{
+    margin-right: -250px;
+    position: absolute;
+    margin-top: -550px;
+}
+
+#p1{
+    background-color: lightgray;  
+}
+#des1{
+    font-size: 35px;
+}
+#container1{
+    width: 940px;
+    /*height:900px;*/
+    border:1px solid #c0b6ed;
+    background-color: #c0b6ed;
+    margin-top: -18px;
+
+}
+#navi{
+margin-top: -29px;
+background-color: lightcoral;
+}
+
+
+#img {
+    width: 400px;
+    height: auto;
+}
+
+
+#img3 {
+    background-size: cover;
+    background-image: url('../pic/Retouch_before_inbar appel.jpg');
+    width: 400px;
+    height: 565.58px;
+    margin: 0 auto 0 auto;
+}
+
+    #img3:hover {
+        background-image: url('../pic/Retouch_after_inbar appel.jpg');
+    }
+
+#flash{
+    border: 3px solid black;
+}
